@@ -9,3 +9,5 @@ Rustを使い、iOSとAndroidのデモアプリを作って、検証します。
 ├── iOSDemo           //iOSアプリプロジェクト
 ```
 
+関連
+https://zenn.dev/articles/952dede506b317
