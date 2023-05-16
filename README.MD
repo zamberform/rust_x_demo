@@ -10,4 +10,4 @@ Rustを使い、iOSとAndroidのデモアプリを作って、検証します。
 ```
 
 関連
-https://zenn.dev/articles/952dede506b317
+https://zenn.dev/reinf0rce/articles/952dede506b317
